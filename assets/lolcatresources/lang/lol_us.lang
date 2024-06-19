@@ -1,0 +1,473 @@
+# RESKILLABLE
+reskillable.misc.skills=Skilz
+reskillable.misc.requirements=Requirmentz:
+reskillable.misc.requirements_shift=Hold SHIFT for requirmentz
+reskillable.misc.skill_points=%d skil pointz
+reskillable.misc.shift=Hold SHIFT for deskripshun
+reskillable.misc.unlocked=u got it!
+
+reskillable.misc.locked.item=U nawt has requirmentz 2 use dat item
+reskillable.misc.locked.block_break=U nawt has requirmentz 2 destroi dat bluk
+reskillable.misc.locked.block_use=U nawt has requirmentz 2 use dat bluk
+reskillable.misc.locked.armor_equip=U nawt has requirmentz 2 wear dat armur
+
+reskillable.requirements.format.advancement=Atfancemend: %s%s
+reskillable.requirements.format.trait=Trate: %s%s
+reskillable.requirements.format.unobtainable=Cant get dis
+
+reskillable.skill.reskillable.mining=Minin
+reskillable.skill.reskillable.gathering=Cattering
+reskillable.skill.reskillable.attack=Attac
+reskillable.skill.reskillable.defense=Defenz
+reskillable.skill.reskillable.building=Bilding
+reskillable.skill.reskillable.farming=Farmin
+reskillable.skill.reskillable.agility=Catness
+reskillable.skill.reskillable.magic=Magikz
+
+reskillable.unlock.reskillable.obsidian_smasher=hard thing DESTROI
+reskillable.unlock.reskillable.obsidian_smasher.desc=break hardest thing evar wif VERY FUZT usin Dimand Pikakse
+reskillable.unlock.reskillable.fossil_digger=Fozil Diggin'
+reskillable.unlock.reskillable.fossil_digger.desc=smol chanz to mind 2 coel per ore wehn minin' wif an irun pikakse or highr (smooth diggin' BAD)
+reskillable.unlock.reskillable.ore_cascade=MANY ROCKZ DESTROI
+reskillable.unlock.reskillable.ore_cascade.desc=togle abiliti: Minin' rock wif shiniez maek saem rockz go bye. pikkatt breakz fuztr
+reskillable.unlock.reskillable.lucky_fisherman=LOL Fishr
+reskillable.unlock.reskillable.lucky_fisherman.desc=luky cat wehn catchin fud
+reskillable.unlock.reskillable.drop_guarantee=Steal dis thingz evry tiem
+reskillable.unlock.reskillable.drop_guarantee.desc=Bad kittehz alwayz drup stuf (if they can)
+reskillable.unlock.reskillable.neutralissse=Creeper NO
+reskillable.unlock.reskillable.neutralissse.desc=attakin a Creeper befor it goez BOOM wil maek it not go boom brifly
+reskillable.unlock.reskillable.undershirt=Underfur
+reskillable.unlock.reskillable.undershirt.desc=Evry 10 secundz, dieding wit 3 hartz of helth leevs you at 1 helth and maekz you not died
+reskillable.unlock.reskillable.transmutation=Tranzmucation
+reskillable.unlock.reskillable.transmutation.desc=maekz Frute dat Duznt Sing tranzfur some blukz into oterz
+reskillable.unlock.reskillable.perfect_recover=Purrfect catcover
+reskillable.unlock.reskillable.perfect_recover.desc=Blukz dat drup smallr partz, liek Glowstone, alwayz drup enuf to maek them again
+reskillable.unlock.reskillable.more_wheat=Weet-a-Pleny
+reskillable.unlock.reskillable.more_wheat.desc=brekin weet maekz mor weet somtimez
+reskillable.unlock.reskillable.green_thumb=Gren Paw
+reskillable.unlock.reskillable.green_thumb.desc=Plantz neer kittehz with thiz abilty grow fuztr
+reskillable.unlock.reskillable.hungry_farmer=Hungry kitteh
+reskillable.unlock.reskillable.hungry_farmer.desc=Kitteh eat fud pasivly
+reskillable.unlock.reskillable.roadwalk=pethwalk
+reskillable.unlock.reskillable.roadwalk.desc=increaz kitteh's fuztnes wehn on gr's peth
+reskillable.unlock.reskillable.golden_osmosis=GULD OZMOSIZ
+reskillable.unlock.reskillable.golden_osmosis.desc=GULD toolz, wehn in maen paw or bodi, uze xp from teh kitteh fur fuzt fixeh
+reskillable.unlock.reskillable.sidestep=Sideroll
+reskillable.unlock.reskillable.sidestep.desc=Dubl tapin' teh "Roll Left" or "Roll Right" keyz wen movin backwurdz and holdin the sprint key wil maek you sideroll dat way, with smol waitin
+reskillable.unlock.reskillable.safe_port=saef port
+reskillable.unlock.reskillable.safe_port.desc=magic ball no hurty
+reskillable.unlock.reskillable.battle_spirit=Battel Kitteh
+reskillable.unlock.reskillable.battle_spirit.desc=Killin a bad kitteh wil maek kitteh chuckz noris
+reskillable.unlock.reskillable.effect_twist=Effect Twisties
+reskillable.unlock.reskillable.effect_twist.desc=Wehn kitteh hit by bad kitteh wit gud effectz, bad kitteh getz bad effectz
+reskillable.unlock.reskillable.hillwalker=Hill Walkies
+reskillable.unlock.reskillable.hillwalker.desc=kitteh walk up blokz
+
+reskillable.rank.0=smol kitteh
+reskillable.rank.1=baby kitteh
+reskillable.rank.2=young kitteh
+reskillable.rank.3=kitteh
+reskillable.rank.4=smart kitteh
+reskillable.rank.5=skill kitteh
+reskillable.rank.6=ver gud kitteh
+reskillable.rank.7=amazin kitteh
+reskillable.rank.8=chukz noris kitteh
+
+reskillable.tab.inventory=Mah stuff
+reskillable.tab.skills=Skilz
+reskillable.tab.abilities=Abilties
+
+key.controls.reskillable=Reskilbul
+key.open_gui=Open Skilz gooey
+
+reskillable.toast.skill_desc=U gotz lvl: %s
+reskillable.toast.unlockable_desc=Unlukd!
+
+reskillable.command.resetskill.usage=/reskillable resetskill <cat> <skil>
+reskillable.command.setskilllevel.usage=/reskillable setskilllevel <cat> <skil> <lvl>
+reskillable.command.incrementskill.usage=/reskillable incrementskill <cat> <skil> <opshunal_lvl>
+reskillable.command.resetall.usage=/reskillable resetall <cat>
+reskillable.command.toggletrait.usage=/reskillable toggletrait <cat> <trate>
+
+reskillable.command.success.unlocktrait=Succesfully unlukd '%s' fur cat '%s'.
+reskillable.command.success.locktrait=Succesfully lukd '%s' fur cat '%s'.
+reskillable.command.success.resetskill=Succesfully reset Skil: '%s' fur cat '%s'.
+reskillable.command.success.setskilllevel=Succesfully set the lvl of Skil: '%s' to '%s' fur cat '%s'.
+reskillable.command.success.skillup=Succesfully levld up Skil: '%s' fur cat '%s'.
+reskillable.command.success.resetall=Succesfully reset all skilz fur cat '%s'.
+
+reskillable.command.fail.unlocktrait=can't unluk '%s' fur cat '%s'.
+reskillable.command.fail.locktrait=can't luk '%s' fur cat '%s'.
+reskillable.command.fail.resetskill=can't reset Skil: '%s' fur cat '%s'.
+reskillable.command.fail.setskilllevel=can't set the level of Skil: '%s' to '%s' fur cat '%s'.
+reskillable.command.fail.skillup=can't lvl up Skil: '%s' fur cat '%s'.
+reskillable.command.fail.resetall=can't reset skilz '%s' fur cat '%s'.
+
+reskillable.command.invalid.skill=Skil '%s' no exist.
+reskillable.command.invalid.trait=Trate '%s' no exist.
+reskillable.command.invalid.pastcap=Lvl '%s' iz too op pls nerf. normaly '%s'
+reskillable.command.invalid.belowmin=Lvl '%s' iz below '1' what u doin
+
+reskillable.command.invalid.missing.skill=plz tell skil
+reskillable.command.invalid.missing.trait=plz tell trate
+reskillable.command.invalid.missing.player=plz tell cat
+reskillable.command.invalid.missing.level=plz tell lvl
+reskillable.command.invalid.missing.playerskill=plz tell cat and skil
+reskillable.command.invalid.missing.playertrait=plz tell cat and trate
+reskillable.command.invalid.missing.playerskilllevel=plz tell cat, skil, and lvl
+reskillable.command.invalid.missing.skilllevel=plz tell skil and lvl
+
+reskillable.advancement.first_level.title=Getn Strongr
+reskillable.advancement.first_level.desc=kitteh lvl first skil
+
+reskillable.advancement.attack_5.title=he attac
+reskillable.advancement.attack_5.desc=kitteh has 5 lvl in attac
+
+# SPARTAN WEAPONRY
+item.spartanweaponry:handle.name=Handl
+item.spartanweaponry:pole.name=Poll
+item.spartanweaponry:explosive_charge.name=BOOM charg
+
+item.spartanweaponry:caestus.name=Cattus
+item.spartanweaponry:caestus_studded.name=pointy Cattus
+
+item.spartanweaponry:club_wood.name=BIG STIK
+item.spartanweaponry:club_studded.name=POINTY STIK
+
+item.spartanweaponry:longbow_wood.name=Wuddn Bigbowz
+item.spartanweaponry:longbow_leather.name=Leathur-Stronk Bigbowz
+item.spartanweaponry:longbow_iron.name=Irun-Stronk Bigbowz
+item.spartanweaponry:longbow_diamond.name=Shiniez-Stronk Bigbowz
+
+item.spartanweaponry:arrow_wood.name=Wuddn Errow
+item.spartanweaponry:arrow_flint.name=Frint Errow
+item.spartanweaponry:arrow_iron.name=Irun Errow
+item.spartanweaponry:arrow_diamond.name=Shiniez Errow
+item.spartanweaponry:arrow_explosive.name=BOOM BOOM ERROW
+
+item.spartanweaponry:quiver_arrow.name=Smol Errow Bag
+item.spartanweaponry:quiver_arrow_moderate.name=Errow Bag
+item.spartanweaponry:quiver_arrow_heavy.name=Beeg Errow Bag
+
+item.spartanweaponry:bolt.name=Bult
+item.spartanweaponry:bolt_spectral.name=Shini Bult
+item.spartanweaponry:bolt_diamond.name=Awesum Bult
+item.spartanweaponry:quiver_bolt.name=Smol Bult Bag
+item.spartanweaponry:quiver_bolt_moderate.name=Bult Bag
+item.spartanweaponry:quiver_bolt_heavy.name=Beeg Bult Bag
+
+item.spartanweaponry:weapon_oil.name=cover ur wepun in oil
+
+item.spartanweaponry:crossbow_wood.name=Wuddn Crosbowz
+item.spartanweaponry:crossbow_leather.name=Leathur-Stronk Crosbowz
+item.spartanweaponry:crossbow_iron.name=Irun-Stronk Crosbowz
+item.spartanweaponry:crossbow_diamond.name=Shiniez-Stronk Crosbowz
+
+item.spartanweaponry:dynamite.name=BOOM stik
+
+item.spartanweaponry:ingot_custom.name=%s Ingut
+item.spartanweaponry:dagger_custom.name=%s Stabstab
+item.spartanweaponry:parrying_dagger_custom.name=%s Perry Stabstab
+item.spartanweaponry:longsword_custom.name=%s Longsord
+item.spartanweaponry:katana_custom.name=%s catana
+item.spartanweaponry:saber_custom.name=%s Sabr
+item.spartanweaponry:rapier_custom.name=%s thinstik
+item.spartanweaponry:greatsword_custom.name=%s awsom sord
+item.spartanweaponry:hammer_custom.name=%s BONK
+item.spartanweaponry:warhammer_custom.name=%s warBONK
+item.spartanweaponry:spear_custom.name=%s pointy stik
+item.spartanweaponry:halberd_custom.name=%s tall birdy
+item.spartanweaponry:pike_custom.name=%s Pik
+item.spartanweaponry:lance_custom.name=%s Lans
+item.spartanweaponry:longbow_custom.name=%s-Stronk Bigbowz
+item.spartanweaponry:crossbow_custom.name=%s-Stronk Crosbowz
+item.spartanweaponry:throwing_knife_custom.name=%s throwy stabby
+item.spartanweaponry:throwing_axe_custom.name=%s throwy choppy
+item.spartanweaponry:javelin_custom.name=%s throwy pointy
+item.spartanweaponry:boomerang_custom.name=%s boomer
+item.spartanweaponry:battleaxe_custom.name=%s Batlaks
+item.spartanweaponry:mace_custom.name=%s Flangd Mays
+item.spartanweaponry:glaive_custom.name=%s Glave
+item.spartanweaponry:quarterstaff_custom.name=%s long stik
+
+material.spartanweaponry:wood=Wuddn
+material.spartanweaponry:stone=Ston
+material.spartanweaponry:leather=Leathur
+material.spartanweaponry:iron=Irun
+material.spartanweaponry:gold=GULD
+material.spartanweaponry:diamond=Shiniez
+
+material.spartanweaponry:copper=Copurr
+material.spartanweaponry:tin=Tinn
+material.spartanweaponry:bronze=Bronz
+material.spartanweaponry:steel=Steal
+material.spartanweaponry:silver=Silvr
+material.spartanweaponry:invar=Invarr
+material.spartanweaponry:platinum=Purrtinum
+material.spartanweaponry:electrum=zappy metal
+material.spartanweaponry:nickel=Nickl
+material.spartanweaponry:lead=Led
+material.spartanweaponry:titanium=Titanum
+
+itemGroup.spartanweaponry:tabBasic.name=Spurrtan Sharpiez: Vanla Itumz
+itemGroup.spartanweaponry:tabModded.name=Spurrtan Sharpiez: Moddy Itumz
+itemGroup.spartanweaponry:tabArrowsAndBolts.name=Spurrtan Sharpiez: Errows & Bults
+
+entity.spartanweaponry:dagger_thrown.name=Stabstab
+entity.spartanweaponry:throwing_knife.name=throwy stabby
+entity.spartanweaponry:throwing_axe.name=throwy choppy
+entity.spartanweaponry:javelin_thrown.name=throwy pointy
+entity.spartanweaponry:boomerang_thrown.name=boomer
+entity.spartanweaponry:bolt.name=Bult
+entity.spartanweaponry:bolt_spectral.name=Shiniez Bult
+entity.spartanweaponry:bolt_diamond.name=Awesum Bult
+entity.spartanweaponry:arrow_wood.name=Wuddn Errow
+entity.spartanweaponry:arrow_iron.name=Irun Errow
+entity.spartanweaponry:arrow_diamond.name=Shiniez Errow
+entity.spartanweaponry:arrow_explosive.name=BOOM Errow
+entity.spartanweaponry:dynamite.name=BOOM stik
+
+enchantment.spartanweaponry:propulsion=Purrpulsion
+enchantment.spartanweaponry.propulsion.desc=Wepun throwz fuztr and furthr
+enchantment.spartanweaponry:razors_edge=Razurs Ege
+enchantment.spartanweaponry.razors_edge.desc=Throwy wepunz hurty more
+enchantment.spartanweaponry:incendiary=HOT THROWY
+enchantment.spartanweaponry.incendiary.desc=Throwy wepun is HOT! IT BURNZ!
+enchantment.spartanweaponry:lucky_throw=LOL Throw
+enchantment.spartanweaponry.lucky_throw.desc=Bad kittehz drup mor stuffz wehn hit by throwy wepunz
+enchantment.spartanweaponry:hydrodynamic=watR throwy
+enchantment.spartanweaponry.hydrodynamic.desc=throwy wepunz wurk in watR
+enchantment.spartanweaponry:supercharge=Fuzt Throwy
+enchantment.spartanweaponry.supercharge.desc=throwy wepunz throw fuztr!
+enchantment.spartanweaponry:expanse=BIG BOI
+enchantment.spartanweaponry.expanse.desc=throwy wepunz hav 25%% mor ammo
+enchantment.spartanweaponry:return=come back here
+enchantment.spartanweaponry.return.desc=throwy wepunz come back to kitteh
+enchantment.spartanweaponry:rapid_load=Fuzt Shooty
+enchantment.spartanweaponry.rapid_load.desc=Crosbowz relod fuztr
+enchantment.spartanweaponry:spreadshot=Spredsot
+enchantment.spartanweaponry.spreadshot.desc=Crosbowz shoot mor bultz
+enchantment.spartanweaponry:sharpshooter=Sharpsotr
+enchantment.spartanweaponry.sharpshooter.desc=Crosbowz aim fuztr
+
+tooltip.spartanweaponry:properties=Propertiez: %s
+tooltip.spartanweaponry:showDetails=[Press %s to see cattails]
+tooltip.spartanweaponry:showingDetails=[Seeing cattails]
+tooltip.spartanweaponry:description=Deskripshun: %s
+tooltip.spartanweaponry:showDescription=[Press %s for deskripshun]
+tooltip.spartanweaponry:showingDescription=[Showin deskripshun]
+tooltip.spartanweaponry:throwable=Throwy
+tooltip.spartanweaponry:throwable.desc=kitteh can throw dis
+tooltip.spartanweaponry:block_melee=Mely Bluk
+tooltip.spartanweaponry:block_melee.desc=Bluks punchez, projektilez are bad and get no bluk
+tooltip.spartanweaponry:two_handed=Dubl Pawed %s
+tooltip.spartanweaponry:two_handed.desc=itums in other paw caus slow punchez and redus damaj by %d%%
+tooltip.spartanweaponry:two_handed.desc.xat=itums in other paw caus slow punchez and redus damaj by %d%%, unless BIG BOI
+tooltip.spartanweaponry:extra_damage=Mor Damaj
+tooltip.spartanweaponry:extra_damage.desc=%fx mor damaj %s
+tooltip.spartanweaponry:extra_damage_chest=Mor Bodi Damaj
+tooltip.spartanweaponry:extra_damage_chest.desc=+%f%% damaj when bad kitteh can't haz bodi armur
+tooltip.spartanweaponry:extra_damage_chest.desc.armor_points=+%f%% damaj when bad kitteh can't haz bodi armur and has undur %f armur puhnts
+tooltip.spartanweaponry:extra_damage_unarmoured=Mor Unarmur Kitteh Damaj
+tooltip.spartanweaponry:extra_damage_unarmoured.desc=+%f%% damaj when bad kitteh foe can't haz armur
+tooltip.spartanweaponry:extra_damage_unarmoured.desc.armor_points=+%f%% damaj when bad kitteh foe can't haz armur and has undur %f armur puhnts
+tooltip.spartanweaponry:extra_damage_riding=Mor Ridin Damagj
+#tooltip.spartanweaponry:extra_damage_riding.desc=+%f%% base weapon damage while riding a mount or vehicle
+tooltip.spartanweaponry:extra_damage_riding.desc=+%f%% base wepun damaj wehn ridin sometin, stronker based on faztnes
+tooltip.spartanweaponry:extra_damage_thrown=Mor Throwy Damaj
+tooltip.spartanweaponry:extra_damage_thrown.desc=0%% to +%f%% mor damaj wen thrown based on charj
+tooltip.spartanweaponry:extra_damage_undead=Mor Unded Damaj
+tooltip.spartanweaponry:extra_damage_undead.desc=+%f%% mor weapon damaj against Unded kittehz
+tooltip.spartanweaponry:extra_damage_backstab=Mor Bakstabby Damaj
+tooltip.spartanweaponry:extra_damage_backstab.desc=+%f%% mor damaj wehn attakin a kitteh's back
+tooltip.spartanweaponry:damage_absorb=Damaj Absupshun
+tooltip.spartanweaponry:damage_absorb.desc=Taks %d%% less damaj but wepun hurty
+tooltip.spartanweaponry:reach=Reech %s
+tooltip.spartanweaponry:reach.desc=Punchies punch furthr
+tooltip.spartanweaponry:sweep_damage=Swepe %s
+tooltip.spartanweaponry:sweep_damage.desc.normal=All kittehs in sweep ranj tak %d damaj
+tooltip.spartanweaponry:sweep_damage.desc=All kittehs in sweep ranj taks %d%% of norml damaj
+tooltip.spartanweaponry:sweep_damage.fixed.desc=All kittehs in sweep ranj tak %d damaj
+tooltip.spartanweaponry:knockback=Enhancd Nockback
+tooltip.spartanweaponry:knockback.desc=Kittehs get nocked back mor
+tooltip.spartanweaponry:nausea=Siknez Hit
+tooltip.spartanweaponry:nausea.desc=Causes Sik cat II (%ds) on hit for kittehz wit no hat
+tooltip.spartanweaponry:armour_piercing=Armur Purrcing
+tooltip.spartanweaponry:armour_piercing.desc=%d%% of damaj dont care fur armur
+tooltip.spartanweaponry:shield_breach=Cat protecshun Breech
+tooltip.spartanweaponry:shield_breach.desc=Chance to breech a kitteh's shild
+tooltip.spartanweaponry:versatile=Purrsatile
+tooltip.spartanweaponry:versatile.desc=Can yoos as %s
+tooltip.spartanweaponry:versatile.axe=an Akss
+tooltip.spartanweaponry:versatile.pickaxe=a Pikakse
+tooltip.spartanweaponry:versatile.shovel=a Shaval
+tooltip.spartanweaponry:quick_strike=Qwick Strik
+tooltip.spartanweaponry:quick_strike.desc=Many punchies very fazt
+
+tooltip.spartanweaponry:longbow=Long-ranj vershun of teh bowz
+tooltip.spartanweaponry:longbow.desc=Drawz slowr
+tooltip.spartanweaponry:crossbow=High damaj and Long-ranj. Nedz loadin befur firin. Needz Bultz.
+tooltip.spartanweaponry:crossbow.desc=Quik shooties after firin affect aimin.
+tooltip.spartanweaponry:crossbow.desc2=Hold the aim fur a purrfect shot.
+tooltip.spartanweaponry:crossbow.loaded_bolt=Loded with: %s
+
+tooltip.spartanweaponry:throwable.ammo=Ammo: %s
+tooltip.spartanweaponry:throwable.ammo.value=%d/%d
+tooltip.spartanweaponry:throwable.charge_time=Charj Tiem: %s
+tooltip.spartanweaponry:throwable.charge_time.value=%f (sec)
+tooltip.spartanweaponry:throwable.not_original=No fix or inchant, no empty stak wehn ammo runz out
+tooltip.spartanweaponry:throwable_stack_status=%d/%d
+
+tooltip.spartanweaponry:modifiers.ammo.type=Ammo Tiep: %s
+tooltip.spartanweaponry:modifiers.ammo.arrow=Errows
+tooltip.spartanweaponry:modifiers.ammo.bolt=Bults
+tooltip.spartanweaponry:modifiers.longbow.draw_length=Draw Tiem: %.2fs
+tooltip.spartanweaponry:modifiers.longbow.speed_multiplier=Errow Speed: %s
+tooltip.spartanweaponry:modifiers.longbow.speed_multiplier.value=x%.2f
+tooltip.spartanweaponry:modifiers.crossbow.load_time=Lod Tiem: %.2fs
+tooltip.spartanweaponry:modifiers.crossbow.aim_time=Aim Tiem: %.2fs
+tooltip.spartanweaponry:modifiers.crossbow.speed_multiplier=Bult Faztnez: %s
+tooltip.spartanweaponry:modifiers.crossbow.speed_multiplier.value=x%.2f
+
+tooltip.spartanweaponry:projectile.base_damage=Bays Damaj: %f
+tooltip.spartanweaponry:projectile.range_multiplier=Ranj: %s
+tooltip.spartanweaponry:projectile.range_multiplier.value=x%.2f
+tooltip.spartanweaponry:projectile.armor_piercing_factor=Armur Purrcing: %s
+tooltip.spartanweaponry:projectile.armor_piercing_factor.value=%.2f%% damage
+tooltip.spartanweaponry:projectile.impact.glowing=Hit kitteh is shiny
+tooltip.spartanweaponry:projectile.impact.explosion=BOOM
+
+tooltip.spartanweaponry:quiver_arrow.desc=Givz errowz 2 bowz and bigbowz
+tooltip.spartanweaponry:quiver_bolt.desc=Givz bultz 2 crosbowz
+tooltip.spartanweaponry:quiver_capacity=Max Catpacity: %d stakz
+tooltip.spartanweaponry:quiver_show_contents=[Press %s for mor contentz]
+tooltip.spartanweaponry:quiver_show_description=[Press %s for deskripshun]
+tooltip.spartanweaponry:quiver_contains=Quiver can haz:
+tooltip.spartanweaponry:quiver_ammo=- %dx %s
+tooltip.spartanweaponry:quiver_none=- Nothin :(
+tooltip.spartanweaponry:quiver_collect_status=Ammo Colekt: %s
+
+tooltip.spartanweaponry:cantCraftMissingMaterial=Cannot kraft. u no haz %s
+tooltip.spartanweaponry:invalidEnchantments=Dis wepun haz bad inchantments. Kraft alone to fix dis
+
+tooltip.spartanweaponry:enabled=Ok
+tooltip.spartanweaponry:disabled=No
+
+message.spartanweaponry:ammoCollectToggle=Ammo Colektshun: %s
+message.spartanweaponry:quiver_not_found=No bag for dis!
+
+tooltip.spartanweaponry:modifiers.thrown=Wehn thrown:
+tooltip.spartanweaponry:attribute.damage=%s Damaj
+attribute.name.spartanweaponry:generic.throwing_damage=Throwy Hurty
+
+dev.spartanweaponry:wip=NOT DUN!
+
+advancement.spartanweaponry:root.title=Spurrtan Sharpiez
+advancement.spartanweaponry:root.desc=Wepuns Glore!
+advancement.spartanweaponry:melee=Fighty Kitteh's Arsnal
+advancement.spartanweaponry:melee.desc=Meele Wepons!
+advancement.spartanweaponry:archery=Shooty Kitteh's Arsnal
+advancement.spartanweaponry:archery.desc=Shooty Wepons!
+advancement.spartanweaponry:thrownWeapons=Throwy Kitteh's Arsenal
+advancement.spartanweaponry:thrownWeapons.desc=Throwy Wepons!
+advancement.spartanweaponry:craftDagger=pointy stabby ow
+advancement.spartanweaponry:craftDagger.desc=Kraft a stabstab
+advancement.spartanweaponry:craftLongsword=Beeg Blade
+advancement.spartanweaponry:craftLongsword.desc=Kraft a Longsord
+advancement.spartanweaponry:craftKatana=A Japanese Kitteh's Blade
+advancement.spartanweaponry:craftKatana.desc=Kraft a catana
+advancement.spartanweaponry:craftSaber=Swasbuklr
+advancement.spartanweaponry:craftSaber.desc=Kraft a Sabr
+advancement.spartanweaponry:craftRapier=new pointy stik
+advancement.spartanweaponry:craftRapier.desc=Kraft a thinstik
+advancement.spartanweaponry:craftGreatsword=sounds op pls nerf
+advancement.spartanweaponry:craftGreatsword.desc=Kraft an awsom sord
+advancement.spartanweaponry:craftCaestus=Catticuffs
+advancement.spartanweaponry:craftCaestus.desc=Kraft a Cattus
+advancement.spartanweaponry:craftClub=BIG STIK GET
+advancement.spartanweaponry:craftClub.desc=Kraft a BIG STIK
+advancement.spartanweaponry:craftHammer=BONK
+advancement.spartanweaponry:craftHammer.desc=Kraft a BONK
+advancement.spartanweaponry:craftWarhammer=Traumatic BONK
+advancement.spartanweaponry:craftWarhammer.desc=Kraft a warBONK
+advancement.spartanweaponry:craftSpear=tippy of the pointy
+advancement.spartanweaponry:craftSpear.desc=Kraft a pointy stik
+advancement.spartanweaponry:craftHalberd=hi bird
+advancement.spartanweaponry:craftHalberd.desc=Kraft a tall birdy
+advancement.spartanweaponry:craftPike=Pik Of
+advancement.spartanweaponry:craftPike.desc=Kraft a pik
+advancement.spartanweaponry:craftLance=The Forth Horsecat
+advancement.spartanweaponry:craftLance.desc=Kraft a Lans
+advancement.spartanweaponry:craftLongbow=Tak Aim, Kittehz!
+advancement.spartanweaponry:craftLongbow.desc=Kraft a Bigbowz
+advancement.spartanweaponry:craftCrossbow=Ol' Betsey
+advancement.spartanweaponry:craftCrossbow.desc=Kraft a Crosbowz
+advancement.spartanweaponry:craftThrowingKnife=Sneaky Kitteh Need Dis
+advancement.spartanweaponry:craftThrowingKnife.desc=Kraft a throwy stabby
+advancement.spartanweaponry:craftThrowingAxe=Tomahak
+advancement.spartanweaponry:craftThrowingAxe.desc=Kraft a throwy choppy
+advancement.spartanweaponry:craftJavelin=not 4 olympic
+advancement.spartanweaponry:craftJavelin.desc=Kraft a throwy pointy
+advancement.spartanweaponry:craftBoomerang=ok boomer
+advancement.spartanweaponry:craftBoomerang.desc=Kraft a boomer
+advancement.spartanweaponry:craftBattleaxe=...And my Aks!
+advancement.spartanweaponry:craftBattleaxe.desc=Kraft a Batlaks
+advancement.spartanweaponry:craftMace=smashies and bashies
+advancement.spartanweaponry:craftMace.desc=Kraft a Mays
+advancement.spartanweaponry:craftGlaive=scythe but strait
+advancement.spartanweaponry:craftGlaive.desc=Kraft a Glave
+advancement.spartanweaponry:craftQuarterstaff=Normal Stik
+advancement.spartanweaponry:craftQuarterstaff.desc=Craft a long stik
+advancement.spartanweaponry:craftQuiver=Backpack Full of Ammo!
+advancement.spartanweaponry:craftQuiver.desc=Maek a smol Errow or Bult Bag
+advancement.spartanweaponry:upgradeQuiver=BEEG bag
+advancement.spartanweaponry:upgradeQuiver.desc=Maek a normal Errow or Bult Bag
+advancement.spartanweaponry:upgradeQuiverMax=MAXIMUM POWER
+advancement.spartanweaponry:upgradeQuiverMax.desc=Maek a BEEG Errow or Bult Bag
+advancement.spartanweaponry:explode_creeper=Karma
+advancement.spartanweaponry:explode_creeper.desc=make creeper go BOOM
+
+subtitle.spartanweaponry:crossbow_load=Crosbowz be loadin'
+subtitle.spartanweaponry:crossbow_fire=Crosbowz is firin'
+subtitle.spartanweaponry:throwing_weapon_throw=Throwy Wepun thrown
+subtitle.spartanweaponry:throwing_weapon_hit=Throwy Wepun hit
+subtitle.spartanweaponry:throwing_weapon_return=Throwy Weapyn returning
+subtitle.spartanweaponry:boomerang_throw=Boomer thrown
+subtitle.spartanweaponry:boomerang_flight=Boomer flies
+
+key.spartanweaponry:category.title=Spurrtan Sharpiez
+key.spartanweaponry.access_quiver=Open Errow or Bult Bag
+
+# FIRST AID
+itemGroup.firstaid=Furst Ade
+item.bandage.name=Bandaj
+item.plaster.name=Catster
+item.morphine.name=Morfeen
+
+gui.head=Cat Hed
+gui.left_arm=Lef Arm
+gui.left_leg=Lef Leg
+gui.left_foot=Lef Paw
+gui.body=Cat Bodi
+gui.right_arm=Rite Arm
+gui.right_leg=Rite Leg
+gui.right_foot=Rite Paw
+gui.apply_hint=Pick were item goez
+gui.morphine_left=Morfeen activ (%s left)
+gui.active_item=Activ right meow
+gui.no_sleep_heal=Takin a nap gives no helth
+gui.sleep_heal_amount=Takin a nap gives %s%% of max helth
+
+firstaid.tooltip.morphine=Removes helth debufs %s
+firstaid.tooltip.healer=Gives %s harts, takes %s per half hart
+
+firstaid.tutorial.hint=Press %s for helpz
+
+keybinds.show_wounds=Show ouchies
+
+subtitles.debuff.heartbeat=Hart beets
+gui.next_heal=Next healies: %s (sec)
+firstaid.specificarmor= +%s Locashunal Armur
+firstaid.specificarmor.take= -%s Locashunal Armur
+firstaid.specifictoughness= +%s Locashunal Armur fatness
+firstaid.specifictoughness.take= -%s Locashunal Armur fatness
