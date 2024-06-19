@@ -471,3 +471,36 @@ firstaid.specificarmor= +%s Locashunal Armur
 firstaid.specificarmor.take= -%s Locashunal Armur
 firstaid.specifictoughness= +%s Locashunal Armur fatness
 firstaid.specifictoughness.take= -%s Locashunal Armur fatness
+
+# SCALING HEALTH
+
+itemGroup.scalinghealth=Scating Helth
+
+tile.scalinghealth.crystalore.name=Shinee Hart Ore
+
+item.scalinghealth.crystalshard.name=Shinee Hart Piece
+item.scalinghealth.enchanted_heart.name=Inchanted Hart
+item.scalinghealth.cursed_heart.name=Meanie Hart
+item.scalinghealth.difficultychanger.effectDesc=Hardnez %s
+item.scalinghealth.heartcontainer.name=Shinee Hart
+item.scalinghealth.heartcontainer.desc=Givz mor helth
+item.scalinghealth.heartcontainer.notEnoughXP=You need %d XP for dis itum
+item.scalinghealth.heartdust.name=Hart Duzt
+item.scalinghealth.bandage.name=Bandajs
+item.scalinghealth.medkit.name=Medkitteh
+item.scalinghealth.healingitem.healingValue=Givz %d%% helth over %d (sec)
+item.scalinghealth.healingitem.howToUse=Use for %d (sec) to apply
+
+effect.scalinghealth.bandaged=Bandajd
+
+blight.scalinghealth.name=Blite %s
+blight.scalinghealth.killedByPlayer=Blite %s was scratchd to ded by %s!
+
+misc.scalinghealth.sleepWarning=[Scating Helth] WARNIN: Takin a nap will affect hardnez!
+misc.scalinghealth.difficultyMeterText=HARDNEZ
+
+scalinghealth.subtitle.cursed_heart_use=Meanie hart used
+scalinghealth.subtitle.enchanted_heart_use=Inchanted hart used
+scalinghealth.subtitle.heart_container_use=Shinee hart used
+
+scalinghealth.subtitle.player_died=Kat ded (LOL)
